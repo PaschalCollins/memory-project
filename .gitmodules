@@ -1,0 +1,3 @@
+[submodule "sever"]
+	path = sever
+	url = https://git.heroku.com/memory-app-project.git
